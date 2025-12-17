@@ -9,7 +9,7 @@ public class Main{
         System.out.print("Enter age: ");
         int age = sc.nextInt();
 
-        System.out.print("Is male? (true/false): ");
+        System.out.print("Is male? (True/False): ");
         boolean isMale = sc.nextBoolean();
 
         Employee employee = new Employee(30, "Alex", true, "Developer", 3500.5f);
