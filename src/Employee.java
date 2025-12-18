@@ -21,9 +21,7 @@ public class Employee extends Human {
     }
 
     public float getSalary() {
-        return salary;
-
-}
+        return salary;}
     public void setSalary(float salary) {
         this.salary = salary;
     }
